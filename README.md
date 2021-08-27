@@ -1,1 +1,1 @@
-# steamsupply-Bot-Rates
+# steamsupply-bot-rates
